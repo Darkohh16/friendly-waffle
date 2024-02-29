@@ -1,0 +1,17 @@
+{
+	id: "6aab06fc-2bfa-3502-9268-bcf48062f5ac"
+	type: "player"
+	player_name: "Darkohh10"
+	ranks: {
+		6aab06fc-2bfa-3502-9268-bcf48062f5ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Darkohh10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
